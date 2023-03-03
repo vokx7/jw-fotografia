@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://jw-fotografia.vercel.app/
+
+# Sitemaps
+Sitemap: https://jw-fotografia.vercel.app/sitemap.xml

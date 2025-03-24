@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# JW Fotografia
 
-## Getting Started
+JW Fotografia is a professional photography portfolio website built with Next.js. It showcases the photographer's work with a visually appealing and responsive design.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Elegant and modern design
+- Responsive and optimized for all devices
+- Fast and efficient with Next.js (Page Router structure)
+- SEO-friendly pages
+- Gallery and portfolio sections
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Installation
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+To set up the project locally, follow these steps:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/vokx7/jw-fotografia.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd jw-fotografia
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Technologies Used
 
-## Learn More
+- **Next.js (Page Router)** – React framework for server-side rendering and static site generation
+- **React** – Frontend JavaScript library
+- **CSS** – Custom styles for layout and design
+- **Node.js & npm** – Package manager and runtime environment
 
-To learn more about Next.js, take a look at the following resources:
+## Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Contributions are not currently accepted for this project.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+This project is licensed under the MIT License.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For any questions or inquiries, feel free to reach out:
+
+- **Email**: [pawlak-weronika@outlook.com](mailto:pawlak-weronika@outlook.com)
+- **GitHub**: [vokx7](https://github.com/vokx7)
+
